@@ -13,8 +13,8 @@ To write a python program to check whether Hamiltonian path exits in the given g
 ## Program:
 ```
 Program to implement to check whether Hamiltonian path exits in the given graph.
-Developed by: MOHAMED MUFFASHAL K A
-Register Number: 212222220024
+Developed by: Mohamed Munthasir Y
+Register Number: 212222220025
 ```
 ```python
 def Hamiltonian_path(adj, N):
